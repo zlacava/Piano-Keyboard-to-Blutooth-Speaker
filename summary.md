@@ -1,8 +1,8 @@
-# Student Names 
-Henry Forsyth
+# Student Name
+Zachary LaCava
 
 # Summary
-This is a testing doc to see if I can pull it into the website
+A Gameboy recreation using an ESP32
 
 # Date Started
-11-16-2000
+9-27-2024
