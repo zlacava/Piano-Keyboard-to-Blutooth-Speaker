@@ -2,7 +2,7 @@
 Zachary LaCava
 
 # Summary
-A Game Boy recreation using an ESP32
+Connecting a piano keyboard to a Bluetooth speaker
 
 # Date Started
-9-27-2024
+2-7-2025
